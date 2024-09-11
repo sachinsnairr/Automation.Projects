@@ -78,4 +78,3 @@ driver.findElement(By.xpath("//input[@id='confirmfoliocreate1']")).click();
 	}
 
 }
-
